@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c5866455-c608-4dff-97ac-9db0f79b5004" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../Opdrachten html/home pagina/AlleHtml Opdrachten.html" afterPath="$PROJECT_DIR$/../Opdrachten html/Home-Pagina/AlleHtml Opdrachten.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../Opdrachten html/tabbellen/tabel1.html" afterPath="$PROJECT_DIR$/../Opdrachten html/tabellen/tabel1.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../Opdrachten html/tabbellen/tabel2.html" afterPath="$PROJECT_DIR$/../Opdrachten html/tabellen/tabel2.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../Opdrachten html/tabbellen/tabel21.html" afterPath="$PROJECT_DIR$/../Opdrachten html/tabellen/tabel21.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../Opdrachten html/tabbellen/tabel22.html" afterPath="$PROJECT_DIR$/../Opdrachten html/tabellen/tabel22.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../Opdrachten html/Home-Pagina/AlleHtml Opdrachten.html" afterPath="$PROJECT_DIR$/../Opdrachten html/Home-Pagina/AlleHtmlOpdrachten.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Opdrachten html/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../Opdrachten html/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -30,8 +26,8 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AlleHtml Opdrachten.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../Opdrachten html/Home-Pagina/AlleHtml Opdrachten.html">
+      <file leaf-file-name="AlleHtmlOpdrachten.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../Opdrachten html/Home-Pagina/AlleHtmlOpdrachten.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="105">
               <caret line="7" column="14" lean-forward="false" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
@@ -177,7 +173,7 @@
       <option name="presentableId" value="Default" />
       <updated>1507810713921</updated>
       <workItem from="1507810715225" duration="932000" />
-      <workItem from="1508398112229" duration="23205000" />
+      <workItem from="1508398112229" duration="23468000" />
     </task>
     <task id="LOCAL-00001" summary="bezig met opdracht tabbellen">
       <created>1508416814529</created>
@@ -214,17 +210,23 @@
       <option name="project" value="LOCAL" />
       <updated>1509208983729</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="homepagina vor opdrachten gemaakt en tabbellen zijn gereed">
+      <created>1509209515115</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1509209515115</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24137000" />
+    <option name="totallyTimeSpent" value="24400000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24305555" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24305555" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32941177" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32941177" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -275,7 +277,8 @@
     <MESSAGE value="aan het beginnen met opdracht tabbellen" />
     <MESSAGE value="tabellen af" />
     <MESSAGE value="homepagina vor opdrachten gemaakt" />
-    <option name="LAST_COMMIT_MESSAGE" value="homepagina vor opdrachten gemaakt" />
+    <MESSAGE value="homepagina vor opdrachten gemaakt en tabbellen zijn gereed" />
+    <option name="LAST_COMMIT_MESSAGE" value="homepagina vor opdrachten gemaakt en tabbellen zijn gereed" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -328,7 +331,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Opdrachten html/Home-Pagina/AlleHtml Opdrachten.html">
+    <entry file="file://$PROJECT_DIR$/../Opdrachten html/Home-Pagina/AlleHtmlOpdrachten.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" column="14" lean-forward="false" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
