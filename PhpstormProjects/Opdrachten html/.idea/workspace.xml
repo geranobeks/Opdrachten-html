@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c5866455-c608-4dff-97ac-9db0f79b5004" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Opdrachten html/WebsiteVanafSchets/schets.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Opdrachten html/WebsiteVanafSchets/styleSheets/SchetsStyle.css" />
+    <list default="true" id="c5866455-c608-4dff-97ac-9db0f79b5004" name="Default" comment="website van schets af">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Opdrachten html/WebsiteVanafSchets/img/elektriciteit.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Opdrachten html/WebsiteVanafSchets/img/wilkens_logo.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Opdrachten html/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../Opdrachten html/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Opdrachten html/Home-Pagina/AlleHtmlOpdrachten.html" afterPath="$PROJECT_DIR$/../Opdrachten html/Home-Pagina/AlleHtmlOpdrachten.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -176,7 +175,7 @@
       <option name="presentableId" value="Default" />
       <updated>1507810713921</updated>
       <workItem from="1507810715225" duration="932000" />
-      <workItem from="1508398112229" duration="30894000" />
+      <workItem from="1508398112229" duration="31039000" />
     </task>
     <task id="LOCAL-00001" summary="bezig met opdracht tabbellen">
       <created>1508416814529</created>
@@ -234,11 +233,18 @@
       <option name="project" value="LOCAL" />
       <updated>1509215087632</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="website van schets af">
+      <created>1509372233858</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1509372233858</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31826000" />
+    <option name="totallyTimeSpent" value="31971000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -296,7 +302,8 @@
     <MESSAGE value="homepagina vor opdrachten gemaakt" />
     <MESSAGE value="homepagina vor opdrachten gemaakt en tabbellen zijn gereed" />
     <MESSAGE value="home pagina af" />
-    <option name="LAST_COMMIT_MESSAGE" value="home pagina af" />
+    <MESSAGE value="website van schets af" />
+    <option name="LAST_COMMIT_MESSAGE" value="website van schets af" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
