@@ -1,10 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c5866455-c608-4dff-97ac-9db0f79b5004" name="Default" comment="website van schets af">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Opdrachten html/WebsiteVanafSchets/img/elektriciteit.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Opdrachten html/WebsiteVanafSchets/img/wilkens_logo.png" />
+    <list default="true" id="c5866455-c608-4dff-97ac-9db0f79b5004" name="Default" comment="burton af">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Opdrachten html/BurtonEducationWebsite/foto/1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Opdrachten html/BurtonEducationWebsite/foto/2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Opdrachten html/BurtonEducationWebsite/foto/3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Opdrachten html/BurtonEducationWebsite/foto/4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Opdrachten html/BurtonEducationWebsite/foto/appel.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Opdrachten html/BurtonEducationWebsite/foto/book.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Opdrachten html/BurtonEducationWebsite/foto/burton_logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Opdrachten html/BurtonEducationWebsite/foto/bus.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Opdrachten html/BurtonEducationWebsite/foto/desk.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Opdrachten html/BurtonEducationWebsite/foto/football.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Opdrachten html/BurtonEducationWebsite/foto/pythagoras.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Opdrachten html/BurtonEducationWebsite/Burton.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Opdrachten html/BurtonEducationWebsite/BurtonStyle.css" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Opdrachten html/WebsiteVanafSchets/img/elektriciteit.jpg" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Opdrachten html/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../Opdrachten html/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Opdrachten html/Home-Pagina/AlleHtmlOpdrachten.html" afterPath="$PROJECT_DIR$/../Opdrachten html/Home-Pagina/AlleHtmlOpdrachten.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -15,21 +28,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="schets.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../Opdrachten html/WebsiteVanafSchets/schets.html">
+      <file leaf-file-name="Burton.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../Opdrachten html/BurtonEducationWebsite/Burton.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="32" column="27" lean-forward="false" selection-start-line="32" selection-start-column="27" selection-end-line="32" selection-end-column="27" />
+            <state relative-caret-position="990">
+              <caret line="66" column="18" lean-forward="false" selection-start-line="66" selection-start-column="18" selection-end-line="66" selection-end-column="18" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SchetsStyle.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../Opdrachten html/WebsiteVanafSchets/styleSheets/SchetsStyle.css">
+      <file leaf-file-name="AlleHtmlOpdrachten.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../Opdrachten html/Home-Pagina/AlleHtmlOpdrachten.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="720">
-              <caret line="48" column="15" lean-forward="false" selection-start-line="48" selection-start-column="15" selection-end-line="48" selection-end-column="15" />
+            <state relative-caret-position="210">
+              <caret line="14" column="67" lean-forward="false" selection-start-line="14" selection-start-column="67" selection-end-line="14" selection-end-column="67" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BurtonStyle.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../Opdrachten html/BurtonEducationWebsite/BurtonStyle.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="145">
+              <caret line="49" column="1" lean-forward="true" selection-start-line="49" selection-start-column="1" selection-end-line="49" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -65,10 +88,12 @@
         <option value="$PROJECT_DIR$/../Opdrachten html/AlleHtml Opdrachten.html" />
         <option value="$PROJECT_DIR$/../Opdrachten html/Home-Pagina/AlleHtml Opdrachten.html" />
         <option value="$PROJECT_DIR$/../Opdrachten html/tabellen/tabel1.html" />
-        <option value="$PROJECT_DIR$/../Opdrachten html/Home-Pagina/AlleHtmlOpdrachten.html" />
         <option value="$PROJECT_DIR$/../Opdrachten html/WebsiteVanafSchets/SchetsStyle.css" />
         <option value="$PROJECT_DIR$/../Opdrachten html/WebsiteVanafSchets/schets.html" />
         <option value="$PROJECT_DIR$/../Opdrachten html/WebsiteVanafSchets/styleSheets/SchetsStyle.css" />
+        <option value="$PROJECT_DIR$/../Opdrachten html/Home-Pagina/AlleHtmlOpdrachten.html" />
+        <option value="$PROJECT_DIR$/../Opdrachten html/BurtonEducationWebsite/Burton.html" />
+        <option value="$PROJECT_DIR$/../Opdrachten html/BurtonEducationWebsite/BurtonStyle.css" />
       </list>
     </option>
   </component>
@@ -111,23 +136,12 @@
             <path>
               <item name="tabellen" type="b2602c69:ProjectViewProjectNode" />
               <item name="Opdrachten html" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="BurtonEducationWebsite" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="tabellen" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Opdrachten html" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="Home-Pagina" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="tabellen" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Opdrachten html" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="tabellen" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="tabellen" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Opdrachten html" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="WebsiteVanafSchets" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="tabellen" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Opdrachten html" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="WebsiteVanafSchets" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="img" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
           <select />
@@ -175,7 +189,7 @@
       <option name="presentableId" value="Default" />
       <updated>1507810713921</updated>
       <workItem from="1507810715225" duration="932000" />
-      <workItem from="1508398112229" duration="31039000" />
+      <workItem from="1508398112229" duration="43212000" />
     </task>
     <task id="LOCAL-00001" summary="bezig met opdracht tabbellen">
       <created>1508416814529</created>
@@ -240,54 +254,42 @@
       <option name="project" value="LOCAL" />
       <updated>1509372233858</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="website van schets af">
+      <created>1509372369549</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1509372369549</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31971000" />
+    <option name="totallyTimeSpent" value="44144000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24305555" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32941177" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32941177" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-    </layout>
-    <layout-to-restore>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24305555" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32941177" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32941177" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24305555" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-    </layout-to-restore>
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -303,7 +305,8 @@
     <MESSAGE value="homepagina vor opdrachten gemaakt en tabbellen zijn gereed" />
     <MESSAGE value="home pagina af" />
     <MESSAGE value="website van schets af" />
-    <option name="LAST_COMMIT_MESSAGE" value="website van schets af" />
+    <MESSAGE value="burton af" />
+    <option name="LAST_COMMIT_MESSAGE" value="burton af" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -330,24 +333,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Opdrachten html/tabellen/tabel22.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="16" lean-forward="false" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
-          <folding>
-            <element signature="n#style#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Opdrachten html/tabellen/tabel21.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="630">
-          <caret line="42" column="51" lean-forward="false" selection-start-line="42" selection-start-column="51" selection-end-line="42" selection-end-column="51" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../Opdrachten html/tabellen/tabel2.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="665">
@@ -366,26 +351,58 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Opdrachten html/Home-Pagina/AlleHtmlOpdrachten.html">
+    <entry file="file://$PROJECT_DIR$/../Opdrachten html/WebsiteVanafSchets/schets.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="50" lean-forward="false" selection-start-line="12" selection-start-column="50" selection-end-line="12" selection-end-column="50" />
+        <state relative-caret-position="680">
+          <caret line="64" column="21" lean-forward="false" selection-start-line="64" selection-start-column="7" selection-end-line="64" selection-end-column="21" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../Opdrachten html/WebsiteVanafSchets/styleSheets/SchetsStyle.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="720">
-          <caret line="48" column="15" lean-forward="false" selection-start-line="48" selection-start-column="15" selection-end-line="48" selection-end-column="15" />
+        <state relative-caret-position="60">
+          <caret line="4" column="4" lean-forward="false" selection-start-line="4" selection-start-column="4" selection-end-line="6" selection-end-column="18" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Opdrachten html/WebsiteVanafSchets/schets.html">
+    <entry file="file://$PROJECT_DIR$/../Opdrachten html/Home-Pagina/AlleHtmlOpdrachten.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="32" column="27" lean-forward="false" selection-start-line="32" selection-start-column="27" selection-end-line="32" selection-end-column="27" />
+        <state relative-caret-position="210">
+          <caret line="14" column="67" lean-forward="false" selection-start-line="14" selection-start-column="67" selection-end-line="14" selection-end-column="67" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Opdrachten html/tabellen/tabel22.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="12" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="9" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Opdrachten html/tabellen/tabel21.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="42" column="51" lean-forward="false" selection-start-line="42" selection-start-column="51" selection-end-line="42" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Opdrachten html/BurtonEducationWebsite/Burton.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="990">
+          <caret line="66" column="18" lean-forward="false" selection-start-line="66" selection-start-column="18" selection-end-line="66" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Opdrachten html/BurtonEducationWebsite/BurtonStyle.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="49" column="1" lean-forward="true" selection-start-line="49" selection-start-column="1" selection-end-line="49" selection-end-column="1" />
           <folding />
         </state>
       </provider>
