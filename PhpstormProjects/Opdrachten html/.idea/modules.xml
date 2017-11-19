@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Opdrachten html.iml" filepath="$PROJECT_DIR$/.idea/Opdrachten html.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/tabellen.iml" filepath="$PROJECT_DIR$/.idea/tabellen.iml" />
     </modules>
   </component>

@@ -2,12 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c5866455-c608-4dff-97ac-9db0f79b5004" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Opdrachten html/BierHier/BierHierStyle.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Opdrachten html/BierHier/Boerenkool.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Opdrachten html/BierHier/Boerenkool.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Opdrachten html/BierHier/StampotMetJus.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Opdrachten html/BierHier/bierhier.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Opdrachten html/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../Opdrachten html/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FormsEnFronts/Forms.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FormsEnFronts/voorbeeld.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FormsEnFronts/voorbeeld.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BurtonEducationWebsite/Burton.html" afterPath="$PROJECT_DIR$/BurtonEducationWebsite/Burton.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Home-Pagina/AlleHtmlOpdrachten.html" afterPath="$PROJECT_DIR$/Home-Pagina/AlleHtmlOpdrachten.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -18,68 +19,53 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="bierhier.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../Opdrachten html/BierHier/bierhier.html">
+      <file leaf-file-name="Burton.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BurtonEducationWebsite/Burton.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="723">
-              <caret line="57" column="7" lean-forward="false" selection-start-line="57" selection-start-column="7" selection-end-line="57" selection-end-column="7" />
-              <folding>
-                <element signature="n#style#0;n#img#0;n#a#0;n#article#1;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#a#1;n#article#1;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#a#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#a#1;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BierHierStyle.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../Opdrachten html/BierHier/BierHierStyle.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
-              <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="26" selection-end-column="1" />
+            <state relative-caret-position="75">
+              <caret line="5" column="4" lean-forward="false" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="50" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="StampotMetJus.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../Opdrachten html/BierHier/StampotMetJus.html">
+      <file leaf-file-name="BurtonStyle.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BurtonEducationWebsite/BurtonStyle.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="635">
-              <caret line="49" column="106" lean-forward="false" selection-start-line="49" selection-start-column="106" selection-end-line="49" selection-end-column="106" />
+            <state relative-caret-position="598">
+              <caret line="47" column="24" lean-forward="false" selection-start-line="47" selection-start-column="24" selection-end-line="47" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TrueMusic.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ResponsiveDesign/TrueMusic.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="562">
+              <caret line="90" column="38" lean-forward="false" selection-start-line="90" selection-start-column="38" selection-end-line="90" selection-end-column="38" />
               <folding>
-                <element signature="n#style#0;n#img#0;n#a#0;n#article#1;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#a#0;n#section#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#a#1;n#section#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#a#2;n#section#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#a#3;n#section#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#iframe#0;n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Boerenkool.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../Opdrachten html/BierHier/Boerenkool.html">
+      <file leaf-file-name="TrueMusic.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ResponsiveDesign/TrueMusic.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="28" column="34" lean-forward="false" selection-start-line="28" selection-start-column="34" selection-end-line="28" selection-end-column="97" />
-              <folding>
-                <element signature="n#style#0;n#img#0;n#a#0;n#article#1;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#a#0;n#section#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#a#1;n#section#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#a#2;n#section#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#a#3;n#section#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
+            <state relative-caret-position="90">
+              <caret line="6" column="17" lean-forward="false" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Boerenkool.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../Opdrachten html/BierHier/Boerenkool.css">
+      <file leaf-file-name="AlleHtmlOpdrachten.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Home-Pagina/AlleHtmlOpdrachten.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="381">
-              <caret line="29" column="16" lean-forward="false" selection-start-line="29" selection-start-column="16" selection-end-line="29" selection-end-column="16" />
+            <state relative-caret-position="255">
+              <caret line="17" column="87" lean-forward="false" selection-start-line="17" selection-start-column="87" selection-end-line="17" selection-end-column="87" />
               <folding />
             </state>
           </provider>
@@ -90,8 +76,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -105,27 +91,32 @@
         <option value="$PROJECT_DIR$/../tabellen/tabel21.html" />
         <option value="$PROJECT_DIR$/../tabellen/tabel2.html" />
         <option value="$PROJECT_DIR$/../tabellen/weekrooster.html" />
-        <option value="$PROJECT_DIR$/../Opdrachten html/weekrooster.html" />
-        <option value="$PROJECT_DIR$/../Opdrachten html/tabbellen/tabel2.html" />
-        <option value="$PROJECT_DIR$/../Opdrachten html/tabbellen/tabel21.html" />
-        <option value="$PROJECT_DIR$/../Opdrachten html/tabbellen/AlleHtml Opdrachten.html" />
-        <option value="$PROJECT_DIR$/../Opdrachten html/tabbellen/tabel22.html" />
-        <option value="$PROJECT_DIR$/../Opdrachten html/tabbellen/tabel 1.html" />
-        <option value="$PROJECT_DIR$/../Opdrachten html/home pagina/AlleHtml Opdrachten.html" />
-        <option value="$PROJECT_DIR$/../Opdrachten html/AlleHtml Opdrachten.html" />
-        <option value="$PROJECT_DIR$/../Opdrachten html/Home-Pagina/AlleHtml Opdrachten.html" />
-        <option value="$PROJECT_DIR$/../Opdrachten html/tabellen/tabel1.html" />
-        <option value="$PROJECT_DIR$/../Opdrachten html/WebsiteVanafSchets/SchetsStyle.css" />
-        <option value="$PROJECT_DIR$/../Opdrachten html/WebsiteVanafSchets/schets.html" />
-        <option value="$PROJECT_DIR$/../Opdrachten html/WebsiteVanafSchets/styleSheets/SchetsStyle.css" />
-        <option value="$PROJECT_DIR$/../Opdrachten html/Home-Pagina/AlleHtmlOpdrachten.html" />
-        <option value="$PROJECT_DIR$/../Opdrachten html/BurtonEducationWebsite/Burton.html" />
-        <option value="$PROJECT_DIR$/../Opdrachten html/BurtonEducationWebsite/BurtonStyle.css" />
-        <option value="$PROJECT_DIR$/../Opdrachten html/BierHier/BierHierStyle.css" />
-        <option value="$PROJECT_DIR$/../Opdrachten html/BierHier/bierhier.html" />
-        <option value="$PROJECT_DIR$/../Opdrachten html/BierHier/Boerenkool.html" />
-        <option value="$PROJECT_DIR$/../Opdrachten html/BierHier/StampotMetJus.html" />
-        <option value="$PROJECT_DIR$/../Opdrachten html/BierHier/Boerenkool.css" />
+        <option value="$PROJECT_DIR$/weekrooster.html" />
+        <option value="$PROJECT_DIR$/tabbellen/tabel2.html" />
+        <option value="$PROJECT_DIR$/tabbellen/tabel21.html" />
+        <option value="$PROJECT_DIR$/tabbellen/AlleHtml Opdrachten.html" />
+        <option value="$PROJECT_DIR$/tabbellen/tabel22.html" />
+        <option value="$PROJECT_DIR$/tabbellen/tabel 1.html" />
+        <option value="$PROJECT_DIR$/home pagina/AlleHtml Opdrachten.html" />
+        <option value="$PROJECT_DIR$/AlleHtml Opdrachten.html" />
+        <option value="$PROJECT_DIR$/Home-Pagina/AlleHtml Opdrachten.html" />
+        <option value="$PROJECT_DIR$/tabellen/tabel1.html" />
+        <option value="$PROJECT_DIR$/WebsiteVanafSchets/SchetsStyle.css" />
+        <option value="$PROJECT_DIR$/WebsiteVanafSchets/schets.html" />
+        <option value="$PROJECT_DIR$/WebsiteVanafSchets/styleSheets/SchetsStyle.css" />
+        <option value="$PROJECT_DIR$/BurtonEducationWebsite/BurtonStyle.css" />
+        <option value="$PROJECT_DIR$/BierHier/BierHierStyle.css" />
+        <option value="$PROJECT_DIR$/BierHier/Boerenkool.html" />
+        <option value="$PROJECT_DIR$/BierHier/StampotMetJus.html" />
+        <option value="$PROJECT_DIR$/BierHier/Boerenkool.css" />
+        <option value="$PROJECT_DIR$/FormsEnFronts/voorbeeld.css" />
+        <option value="$PROJECT_DIR$/FormsEnFronts/voorbeeld.html" />
+        <option value="$PROJECT_DIR$/BurtonEducationWebsite/Burton.html" />
+        <option value="$PROJECT_DIR$/FormsEnFronts/Forms.html" />
+        <option value="$PROJECT_DIR$/BierHier/bierhier.html" />
+        <option value="$PROJECT_DIR$/ResponsiveDesign/TrueMusic.html" />
+        <option value="$PROJECT_DIR$/Home-Pagina/AlleHtmlOpdrachten.html" />
+        <option value="$PROJECT_DIR$/ResponsiveDesign/TrueMusic.css" />
       </list>
     </option>
   </component>
@@ -137,10 +128,8 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="x" value="172" />
-    <option name="y" value="98" />
-    <option name="width" value="1400" />
-    <option name="height" value="788" />
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -165,17 +154,12 @@
               <item name="tabellen" type="b2602c69:ProjectViewProjectNode" />
               <item name="Opdrachten html" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
-            <path>
-              <item name="tabellen" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Opdrachten html" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="BierHier" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -186,11 +170,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/../Opdrachten html/WebsiteVanafSchets/style sheets" />
-      <recent name="$PROJECT_DIR$/../Opdrachten html/Home-Pagina" />
-      <recent name="$PROJECT_DIR$/../Opdrachten html" />
-      <recent name="$PROJECT_DIR$/../Opdrachten html/home pagina" />
-      <recent name="$PROJECT_DIR$/../Opdrachten html/tabbellen" />
+      <recent name="$PROJECT_DIR$/WebsiteVanafSchets/style sheets" />
+      <recent name="$PROJECT_DIR$/Home-Pagina" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/home pagina" />
+      <recent name="$PROJECT_DIR$/tabbellen" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -216,7 +200,9 @@
       <option name="presentableId" value="Default" />
       <updated>1507810713921</updated>
       <workItem from="1507810715225" duration="932000" />
-      <workItem from="1508398112229" duration="57256000" />
+      <workItem from="1508398112229" duration="62074000" />
+      <workItem from="1510754255867" duration="307000" />
+      <workItem from="1511091675401" duration="9762000" />
     </task>
     <task id="LOCAL-00001" summary="bezig met opdracht tabbellen">
       <created>1508416814529</created>
@@ -295,19 +281,24 @@
       <option name="project" value="LOCAL" />
       <updated>1509652671140</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="bier hier af">
+      <created>1509747316538</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1509747316538</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="58188000" />
+    <option name="totallyTimeSpent" value="73075000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24305555" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24305555" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32941177" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32941177" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
@@ -317,6 +308,7 @@
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32941177" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -340,161 +332,256 @@
     <MESSAGE value="home pagina af" />
     <MESSAGE value="website van schets af" />
     <MESSAGE value="burton af" />
-    <option name="LAST_COMMIT_MESSAGE" value="burton af" />
+    <MESSAGE value="bier hier af" />
+    <option name="LAST_COMMIT_MESSAGE" value="bier hier af" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../Opdrachten html/tabellen/tabel1.html">
+    <entry file="file://$PROJECT_DIR$/FormsEnFronts/Forms.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="25" lean-forward="false" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BurtonEducationWebsite/Burton.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="44" lean-forward="false" selection-start-line="15" selection-start-column="44" selection-end-line="15" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FormsEnFronts/voorbeeld.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="45" lean-forward="false" selection-start-line="16" selection-start-column="45" selection-end-line="16" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BierHier/bierhier.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="18" lean-forward="false" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#a#0;n#article#1;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#img#0;n#a#1;n#article#1;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#img#0;n#a#1;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FormsEnFronts/voorbeeld.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="16" lean-forward="false" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FormsEnFronts/Forms.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#style#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Opdrachten html/weekrooster.html">
+    <entry file="file://$PROJECT_DIR$/BurtonEducationWebsite/Burton.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="44" lean-forward="false" selection-start-line="15" selection-start-column="44" selection-end-line="15" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FormsEnFronts/voorbeeld.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="45" lean-forward="false" selection-start-line="16" selection-start-column="45" selection-end-line="16" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FormsEnFronts/voorbeeld.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="16" lean-forward="false" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tabellen/tabel1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weekrooster.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="13" column="25" lean-forward="false" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="25" />
-          <folding>
-            <element signature="n#style#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Opdrachten html/tabellen/tabel2.html">
+    <entry file="file://$PROJECT_DIR$/tabellen/tabel2.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="665">
           <caret line="52" column="0" lean-forward="false" selection-start-line="52" selection-start-column="0" selection-end-line="52" selection-end-column="55" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Opdrachten html/tabellen/tabel1.html">
+    <entry file="file://$PROJECT_DIR$/tabellen/tabel1.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="540">
           <caret line="36" column="47" lean-forward="false" selection-start-line="36" selection-start-column="47" selection-end-line="36" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebsiteVanafSchets/schets.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="64" column="21" lean-forward="false" selection-start-line="64" selection-start-column="7" selection-end-line="64" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebsiteVanafSchets/styleSheets/SchetsStyle.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="4" lean-forward="false" selection-start-line="4" selection-start-column="4" selection-end-line="6" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tabellen/tabel22.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="12" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="9" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tabellen/tabel21.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="42" column="51" lean-forward="false" selection-start-line="42" selection-start-column="51" selection-end-line="42" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BierHier/BierHierStyle.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="26" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BierHier/StampotMetJus.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="635">
+          <caret line="49" column="106" lean-forward="false" selection-start-line="49" selection-start-column="106" selection-end-line="49" selection-end-column="106" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BierHier/Boerenkool.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="381">
+          <caret line="29" column="16" lean-forward="false" selection-start-line="29" selection-start-column="16" selection-end-line="29" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BierHier/Boerenkool.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="34" lean-forward="false" selection-start-line="28" selection-start-column="34" selection-end-line="28" selection-end-column="97" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BierHier/bierhier.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="8" column="18" lean-forward="false" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
           <folding>
-            <element signature="n#style#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#article#1;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#img#0;n#a#1;n#article#1;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#img#0;n#a#1;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Opdrachten html/WebsiteVanafSchets/schets.html">
+    <entry file="file://$PROJECT_DIR$/BurtonEducationWebsite/Burton.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="680">
-          <caret line="64" column="21" lean-forward="false" selection-start-line="64" selection-start-column="7" selection-end-line="64" selection-end-column="21" />
+        <state relative-caret-position="75">
+          <caret line="5" column="4" lean-forward="false" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="50" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Opdrachten html/WebsiteVanafSchets/styleSheets/SchetsStyle.css">
+    <entry file="file://$PROJECT_DIR$/ResponsiveDesign/img/doot.jpeg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FormsEnFronts/Forms.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="4" lean-forward="false" selection-start-line="4" selection-start-column="4" selection-end-line="6" selection-end-column="18" />
+        <state relative-caret-position="165">
+          <caret line="11" column="25" lean-forward="false" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Opdrachten html/tabellen/tabel22.html">
+    <entry file="file://$PROJECT_DIR$/FormsEnFronts/voorbeeld.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="12" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="9" selection-end-column="12" />
+        <state relative-caret-position="165">
+          <caret line="11" column="16" lean-forward="false" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Opdrachten html/tabellen/tabel21.html">
+    <entry file="file://$PROJECT_DIR$/FormsEnFronts/voorbeeld.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="630">
-          <caret line="42" column="51" lean-forward="false" selection-start-line="42" selection-start-column="51" selection-end-line="42" selection-end-column="51" />
+        <state relative-caret-position="240">
+          <caret line="16" column="45" lean-forward="false" selection-start-line="16" selection-start-column="45" selection-end-line="16" selection-end-column="45" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Opdrachten html/Home-Pagina/AlleHtmlOpdrachten.html">
+    <entry file="file://$PROJECT_DIR$/BurtonEducationWebsite/BurtonStyle.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="67" lean-forward="false" selection-start-line="14" selection-start-column="67" selection-end-line="14" selection-end-column="67" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Opdrachten html/BurtonEducationWebsite/BurtonStyle.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
+        <state relative-caret-position="598">
           <caret line="47" column="24" lean-forward="false" selection-start-line="47" selection-start-column="24" selection-end-line="47" selection-end-column="24" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Opdrachten html/BurtonEducationWebsite/Burton.html">
+    <entry file="file://$PROJECT_DIR$/ResponsiveDesign/TrueMusic.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="545">
-          <caret line="58" column="0" lean-forward="false" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Opdrachten html/BierHier/BierHierStyle.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="26" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Opdrachten html/BierHier/bierhier.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="723">
-          <caret line="57" column="7" lean-forward="false" selection-start-line="57" selection-start-column="7" selection-end-line="57" selection-end-column="7" />
+        <state relative-caret-position="562">
+          <caret line="90" column="38" lean-forward="false" selection-start-line="90" selection-start-column="38" selection-end-line="90" selection-end-column="38" />
           <folding>
-            <element signature="n#style#0;n#img#0;n#a#0;n#article#1;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#a#1;n#article#1;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#a#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#a#1;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#iframe#0;n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Opdrachten html/BierHier/StampotMetJus.html">
+    <entry file="file://$PROJECT_DIR$/Home-Pagina/AlleHtmlOpdrachten.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="635">
-          <caret line="49" column="106" lean-forward="false" selection-start-line="49" selection-start-column="106" selection-end-line="49" selection-end-column="106" />
-          <folding>
-            <element signature="n#style#0;n#img#0;n#a#0;n#article#1;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#a#0;n#section#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#a#1;n#section#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#a#2;n#section#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#a#3;n#section#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Opdrachten html/BierHier/Boerenkool.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="381">
-          <caret line="29" column="16" lean-forward="false" selection-start-line="29" selection-start-column="16" selection-end-line="29" selection-end-column="16" />
+        <state relative-caret-position="255">
+          <caret line="17" column="87" lean-forward="false" selection-start-line="17" selection-start-column="87" selection-end-line="17" selection-end-column="87" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Opdrachten html/BierHier/Boerenkool.html">
+    <entry file="file://$PROJECT_DIR$/ResponsiveDesign/TrueMusic.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" column="34" lean-forward="false" selection-start-line="28" selection-start-column="34" selection-end-line="28" selection-end-column="97" />
-          <folding>
-            <element signature="n#style#0;n#img#0;n#a#0;n#article#1;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#a#0;n#section#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#a#1;n#section#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#a#2;n#section#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#a#3;n#section#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+        <state relative-caret-position="90">
+          <caret line="6" column="17" lean-forward="false" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+          <folding />
         </state>
       </provider>
     </entry>
