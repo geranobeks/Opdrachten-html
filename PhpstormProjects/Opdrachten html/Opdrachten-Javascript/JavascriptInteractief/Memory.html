@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Memory</title>
+    <style>
+        #memory {
+            height: 300px;
+            width: 300px;
+            border: 3px black solid;
+            transition: 2s;
+        }
+    </style>
+</head>
+<body>
+<div id="memory"></div>
+<script>
+    var slideholder = document.getElementById("slideholder");
+    slideholder.style.backgroundImage = "url('../img/memoryImage.jpg')";
+
+    slideholder.addEventListener("click", function () {
+        slideholder.style.backgroundImage = "url('../img/" + getfenix() + " .jpg')";
+    });
+</script>
+</body>
+</html>
