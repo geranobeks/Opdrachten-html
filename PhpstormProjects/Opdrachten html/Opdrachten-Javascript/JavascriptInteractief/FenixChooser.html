@@ -21,7 +21,7 @@
         div.favoriet{
             width: 300px;
             height: 150px;
-            background-color: blue;
+            background-color: transparent;
             background-image: none;
             background-repeat: no-repeat;
             background-position: center;
@@ -51,7 +51,7 @@
 function createPicsHolders() {
     for(var i = 0; i < 9; i++) {
         pictureHolder = document.createElement("div");
-        nieuwElement.className = "fenixpicture";
+        pictureHolder.className = "picture-holder";
         pictureHolder.id = "picture-holder-" +i;
         pics.appendChild(pictureHolder);
 
@@ -84,7 +84,7 @@ function createPicsHolders() {
             notsofavoriet[i].style.backgroundImage = "none";
         }
         favoriet = document.getElementById("favoriet" + id);
-        favoriet.style.backgroundImage = "url('../img/heart.jpg)";
+        favoriet.style.backgroundImage = "url('../img/Heart.png)";
     }
 
 
