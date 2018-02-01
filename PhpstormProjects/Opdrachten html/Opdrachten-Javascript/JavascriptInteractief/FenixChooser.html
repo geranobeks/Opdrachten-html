@@ -7,7 +7,7 @@
     <style>
 
         body{
-            font-family: Copse, Serif;
+            font-family: 'Copse', Serif;
             text-align: center;
         }
         div.picture-holder {
@@ -77,14 +77,14 @@ function createPicsHolders() {
     }
 
     function maakFavoriet(id) {
-        console.log("maak mij favoriet! het gaat om aap..." +id );
+        console.log("maak mij favoriet! het gaat om fenix..." +id );
         notsofavoriet = document.getElementsByClassName("favoriet");
 
         for (var i =0; i< notsofavoriet.length; i++){
             notsofavoriet[i].style.backgroundImage = "none";
         }
         favoriet = document.getElementById("favoriet" + id);
-        favoriet.style.backgroundImage = "url('../img/Heart.png)";
+        favoriet.style.backgroundImage = "url('../img/Heart.png')";
     }
 
 
